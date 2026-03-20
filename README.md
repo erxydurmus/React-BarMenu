@@ -12,7 +12,3 @@ Projeyi canlı ortamda test etmek için aşağıdaki bağlantıya tıklayabilirs
 * **Frontend:** React + Vite
 * **Stil:** Custom CSS (Gold & Dark Theme)
 * **Deployment:** Render (Static Site)
-
-### 💻 Yerel Kurulum
-1. `npm install`
-2. `npm run dev`
