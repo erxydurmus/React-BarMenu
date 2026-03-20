@@ -1,15 +1,18 @@
-#  Bar - Dijital Menü Aracı
-Bu proje, modern işletmeler için tasarlanmış, React/Next.js tabanlı şık bir dijital menü uygulamasıdır.
+# Bar  - Dijital Menü
+Modern, şık ve kullanıcı dostu bir dijital menü deneyimi.
 
-##  Nasıl Çalıştırılır?
-Projeyi kendi bilgisayarınızda denemek isterseniz:
-1. `npm install` (Bağımlılıkları yükler)
-2. `npm run dev` (Lokal sunucuyu başlatır)
+## Canlı Önizleme
+Projeyi canlı ortamda test etmek için aşağıdaki bağlantıya tıklayabilirsiniz:
 
-##  Öne Çıkan Özellikler
-* **Dinamik Fiyatlandırma:** Menüdeki fiyatlar anlık olarak güncellenebilir.
-* **Karanlık Tema:** Gece kulübü ve bar atmosferine uygun CSS tasarımı.
+ **[MENÜYÜ GÖRÜNTÜLE] (https://react-barmenu.onrender.com)
 
-##  Teknik Detaylar
-* **Frontend:** React / Tailwind CSS
-* **Deployment:** Render / GitHub Pages
+---
+
+###  Kullanılan Teknolojiler
+* **Frontend:** React + Vite
+* **Stil:** Custom CSS (Gold & Dark Theme)
+* **Deployment:** Render (Static Site)
+
+### 💻 Yerel Kurulum
+1. `npm install`
+2. `npm run dev`
